@@ -33,7 +33,7 @@ frontend practice.
 2021    **Gubkin University**
         Computer Science
         Master's degree
----
+
 ## Languages:
 some text
 ***
