@@ -1,7 +1,7 @@
 # CV: Korobka Dmitry
 ### junior frontend-developer | designer
 
-=======
+------
 
 ## About me:
 I'm 26 years old. I active learn frontend technologies. 
