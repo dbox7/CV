@@ -9,7 +9,7 @@ metods and disign patterns) and execution applied tasks of programming,
 learning process easyly. Also I have some experience in graphic design.
 As hobby I have been doing this for 5 years. There are some commertial
 projects and gratitudes from my clients. I think it helps me in my 
-frontend practice.
+frontend practice.####
 ---
 ## Skills and Proficiency:
     HTML5, CSS3 | 6/10
