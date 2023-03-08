@@ -38,8 +38,8 @@ frontend practice.
         Master's degree
 
 ## Languages:
-    **Russian** – Native
-    **English** – B2
+**Russian** – Native
+**English** – B2
 ***
 > Жизнь не основывается на послушании – она основывается на стремлении пройти свой собственный путь
 * f
