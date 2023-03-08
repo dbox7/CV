@@ -1,6 +1,6 @@
 # CV: Korobka Dmitry
 ### junior frontend | designer
-***
+---
 #### About me:
 some text
 ***
