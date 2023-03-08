@@ -27,10 +27,10 @@ frontend practice.
     InDesign    | 8/10
 
 ## Education:
-2015|**Gubkin University**
-
-       Computer Science
-       Bachelor's degree
+2015 | **Gubkin University**
+Computer Science
+         Computer Science
+         Bachelor's degree
         
 2021 -- **Gubkin University**
         Computer Science
