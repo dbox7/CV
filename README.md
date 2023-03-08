@@ -28,7 +28,7 @@ frontend practice.
 
 ## Education:
 2015 | **Gubkin University**
-        
+----------------------------        
         Computer Science
         Bachelor's degree
         
