@@ -1,6 +1,6 @@
 # CV: Korobka Dmitry
 ### junior frontend-developer | designer
-------
+---
 ## About me:
 I'm 26 years old. I active learn frontend technologies. 
 Due to my university knowledges base that include exploration of 
@@ -25,8 +25,8 @@ frontend practice.
     Illustrator | 8/10
     --------------------
     InDesign    | 8/10
----
-## **Education:**
+
+## Education:
 2015    **Gubkin University**
         Computer Science
         Bachelor's degree
