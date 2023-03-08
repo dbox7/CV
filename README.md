@@ -2,7 +2,7 @@
 ### junior frontend-developer | designer
 ---
 ## About me:
-I'm 26 years old. I active learn frontend technologies. 
+#### I'm 26 years old. I active learn frontend technologies. 
 Due to my university knowledges base that include exploration of 
 broad-wide themes (from algorithms and data structures to encrypth 
 metods and disign patterns) and execution applied tasks of programming, 
